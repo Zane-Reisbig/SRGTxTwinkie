@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SRGTxTwinkie
 - 👀 I’m interested in ... Doing the Code
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... Vue
 - 💞️ I’m looking to collaborate on ... Whatever
 - 📫 How to reach me ... zanereisbig@email.grcc.edu
 
